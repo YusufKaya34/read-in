@@ -1,0 +1,9 @@
+{
+    "login": {
+        "email":"e-posta",
+        "password":"Şifre",
+        "login":"GİRİŞ YAP",
+        "signUp":"KAYIT OL",
+        "forgotPass":"Şifremi unuttum"
+    }
+}

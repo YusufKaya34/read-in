@@ -1,0 +1,12 @@
+{
+    "login": {
+      
+            "email":"e-mail",
+            "password":"Password",
+            "login":"LOG IN",
+            "signUp":"SIGN UP",
+            "forgotPass":"Forgot Password"
+
+        
+    }
+}
